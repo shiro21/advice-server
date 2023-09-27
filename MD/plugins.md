@@ -1,0 +1,13 @@
+### npm install
+npm install express@4.18.2
+npm install dotenv@16.0.3
+npm install @2.8.5
+npm install body-parser@1.20.1
+npm install mongoose@6.7.0
+npm install multer-firebase-storage@4.1.2
+npm install multer@1.4.5
+npm install uuid
+npm install crypto-js
+npm install jsonwebtoken
+npm install socket.io
+npm install nodemailer
